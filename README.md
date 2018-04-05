@@ -1,2 +1,2 @@
-# QOMO-tools
+# tools
 Tools to make the QOMO system process.
